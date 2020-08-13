@@ -30,7 +30,7 @@ James Harden with 44.3% of the vote. Giannis Antetokounmpo came in a close secon
 |Joel Embiid|1.7%       
 
 ## 538's RAPTOR says... James Harden, by a WIDE margin.
-![enter image description here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQN629YtX07W4F0cMeIjif4kY4qje4kYsspi2qwAAnY4rW3O_8lgaszKGXMyYRlmAoscHxbpNTwNOpQ/pubchart?oid=723344351&format=image)
+![enter image description here](https://drive.google.com/file/d/1jXa4wC6JRUovDGNJV1L5-J83n9cDmTqt/view?usp=sharing)
 This is a hopeful first finding from the RAPTOR data. It shows that 538 can make claims that mirror what the experts with real world experience would say. What's surprising is that James Harden has the best overall RAPTOR score by a very wide margin. RAPTOR would conclude that harden should be the unanimous, undisputed MVP..... but....
 
 
@@ -65,9 +65,9 @@ This result is most is most surprising. It claims that Jusuf Nurkic, who didn't 
 Choosing Jusuf Nurkic for DPOY is like saying the Cal Football team deserved to be in the college national championship, it's more of a antagonizing statement that one driven by lived experience.
 
 
-![enter image description here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQN629YtX07W4F0cMeIjif4kY4qje4kYsspi2qwAAnY4rW3O_8lgaszKGXMyYRlmAoscHxbpNTwNOpQ/pubchart?oid=1123725965&format=image)
+![enter image description here](https://drive.google.com/file/d/1E5r420nzX4awDMdXc0zPDe7dcwwnR0R2/view?usp=sharing)
 I believe NBA writers and players are biased toward voting for players who are more fun to vote for. The following graph shows RAPTORS PACE data, which shows the impact of players per 48 minutes of play. Typically, a player needs to be faster and able to run the length of the court more times per game to get a higher score in this category. Here we can see that Giannis is ranked higher. 
-![enter image description here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQN629YtX07W4F0cMeIjif4kY4qje4kYsspi2qwAAnY4rW3O_8lgaszKGXMyYRlmAoscHxbpNTwNOpQ/pubchart?oid=1827976829&format=image)
+![enter image description here](https://drive.google.com/file/d/1zA3fNGVCBpDFZsQFnJ_m7VuTBGryQzeu/view?usp=sharing)
 
 
 ## In Reality... Rudy Gobert won Defensive Player of the Year
