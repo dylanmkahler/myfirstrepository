@@ -15,6 +15,7 @@ Other Notes: I only analyzed players who had played more than a thousand minutes
 |RAPTOR OFFENSE SCORE      |184th         |1 Missed AFG
 
 ![enter image description here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQN629YtX07W4F0cMeIjif4kY4qje4kYsspi2qwAAnY4rW3O_8lgaszKGXMyYRlmAoscHxbpNTwNOpQ/pubchart?oid=1697797136&format=image)
+
 # Question 1: Who is the MVP of the League?
 The MVP is voted on by the media apparatus surrounding the sport, and represents the best player in the league for a respective season.
 
