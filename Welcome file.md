@@ -30,7 +30,7 @@ James Harden with 44.3% of the vote. Giannis Antetokounmpo came in a close secon
 |Joel Embiid|1.7%       
 
 ## 538's RAPTOR says... James Harden, by a WIDE margin.
-![enter image description here](https://drive.google.com/file/d/1jXa4wC6JRUovDGNJV1L5-J83n9cDmTqt/view?usp=sharing)
+![enter image description here](https://github.com/dylanmkahler/myfirstrepository/blob/master/Raptor%20MVP%20Predictor.png)
 This is a hopeful first finding from the RAPTOR data. It shows that 538 can make claims that mirror what the experts with real world experience would say. What's surprising is that James Harden has the best overall RAPTOR score by a very wide margin. RAPTOR would conclude that harden should be the unanimous, undisputed MVP..... but....
 
 
