@@ -67,7 +67,7 @@ Choosing Jusuf Nurkic for DPOY is like saying the Cal Football team deserved to 
 
 ![enter image description here](https://github.com/dylanmkahler/myfirstrepository/blob/master/DPOY%20RAPTOR%20PREDICTOR.png)
 I believe NBA writers and players are biased toward voting for players who are more fun to vote for. The following graph shows RAPTORS PACE data, which shows the impact of players per 48 minutes of play. Typically, a player needs to be faster and able to run the length of the court more times per game to get a higher score in this category. Here we can see that Giannis is ranked higher. 
-![enter image description here](https://drive.google.com/file/d/1zA3fNGVCBpDFZsQFnJ_m7VuTBGryQzeu/view?usp=sharing)
+![enter image description here](https://github.com/dylanmkahler/myfirstrepository/blob/master/RAPTOR%20PACE%20METRIC.png)
 
 
 ## In Reality... Rudy Gobert won Defensive Player of the Year
